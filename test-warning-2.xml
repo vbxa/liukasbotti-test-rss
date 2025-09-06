@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>urn:oid:2.49.0.1.246.0.0.2025.09.06.001</identifier>
+  <sender>cap@fmi.fi</sender>
+  <sent>2025-09-06T08:00:00+00:00</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+
+  <info>
+    <category>Met</category>
+    <event>Yellow pedestrian weather warning</event>
+    <urgency>Expected</urgency>
+    <severity>Minor</severity>
+    <certainty>Likely</certainty>
+    <effective>2025-09-06T10:00:00+00:00</effective>
+    <onset>2025-09-06T10:00:00+00:00</onset>
+    <expires>2025-09-07T00:00:00+00:00</expires>
+    <senderName>Finnish Meteorological Institute</senderName>
+    <headline>Yellow pedestrian weather warning: Southern Finland, Sat 10.00 - Sun 0.00</headline>
+    <description>Pedestrian weather warning: Very slippery pavements are expected starting before noon because of water on top of icy pavement surfaces.</description>
+    <instruction>Pedestrians should exercise extreme caution, avoid unnecessary walking, and use appropriate footwear to prevent slipping.</instruction>
+    <web>https://en.ilmatieteenlaitos.fi/warnings</web>
+    <contact>cap@fmi.fi</contact>
+    <language>en-GB</language>
+
+    <area>
+      <areaDesc>Southern Finland</areaDesc>
+      <geocode>
+        <valueName>fips</valueName>
+        <value>FI18</value>
+      </geocode>
+      <polygon>60.0,24.5 60.5,25.5 60.0,26.0 59.5,25.0 60.0,24.5</polygon>
+    </area>
+  </info>
+</alert>
