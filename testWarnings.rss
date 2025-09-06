@@ -1,13 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Finnish Meteorological Institute test warnings</title>
+    <title>Finnish Meteorological Institute warnings</title>
     <link>https://en.ilmatieteenlaitos.fi/warnings</link>
-    <description>Test warnings for development</description>
+    <description>Finnish Meteorological Institute open data (CAP) warnings in effect for the next 0-5 days</description>
     <language>en-GB</language>
-    <pubDate>Fri, 06 Sep 2025 08:00:00 GMT</pubDate>
-
-
-
+    <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+    <item>
+      <title>REMOVED: Yellow wind warning for sea area: Western Gulf of Finland, Sat 16.00 - 23.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>REMOVED: Wind warning for sea areas: South near gale 14 m/s from the afternoon on.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-1</guid>
+    </item>
+    <item>
+      <title>REMOVED: Orange traffic weather warning: The eastern part of the country, Sun 1.00 - 20.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>REMOVED: Traffic weather warning: From the night between Saturday and Sunday to Sunday evening, probability for very bad road conditions is 40% because of freezing rain and snow.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-2</guid>
+    </item>
+    <item>
+      <title>Yellow wind warning for sea area: Southern Sea of Bothnia and Bay of Bothnia, Sun 0.00 - Mon 0.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>Wind warning for sea areas: Northwest near gale 16 m/s from the midnight on.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-3</guid>
+    </item>
+    <item>
+      <title>Yellow wind warning for sea area: Southern Sea of Bothnia, Sat 5.43 - Sun 0.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>Wind warning for sea areas: Southeast gale 17 m/s at first.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-4</guid>
+    </item>
+    <item>
+      <title>Yellow wind warning for sea area: Gulf of Finland, Sun 0.00 - 9.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>Wind warning for sea areas: Southwest near gale 14 m/s by night and in the morning.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-5</guid>
+    </item>
+    <item>
+      <title>Yellow pedestrian weather warning: The southern part of the country, Sat 10.00 - Mon 0.00</title>
+      <link>https://vbxa.github.io/liukasbotti-test-rss/test-warning-2.xml</link>
+      <description>Pedestrian weather warning: Very slippery pavements are expected starting before noon because of water on top of icy pavement surfaces.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-6</guid>
+    </item>
+    <item>
+      <title>Yellow wind warning for sea area: Locally on all sea areas, Sat 5.43 - Sun 0.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>Wind warning for sea areas: Southeast near gale 14 m/s at first.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-7</guid>
+    </item>
+    <item>
+      <title>Yellow wind warning for sea area: Locally on all sea areas, Sun 0.00 - Mon 0.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>Wind warning for sea areas: Northwest near gale 14 m/s from the midnight on.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-8</guid>
+    </item>
+    <item>
+      <title>Yellow traffic weather warning: Åland and Varsinais-Suomi, Sat 5.43 - Sun 12.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>Traffic weather warning: Bad road conditions are expected at first because of snow or sleet.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-9</guid>
+    </item>
+    <item>
+      <title>Yellow traffic weather warning: Southern Lapland and locally in North Ostrobothnia, Sat 23.00 - Sun 12.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>Traffic weather warning: Bad road conditions are expected from the late evening on because of snow.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-10</guid>
+    </item>
+    <item>
+      <title>Orange traffic weather warning: Locally in the middle and northern parts of the country, Sat 5.43 - Sun 12.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>Traffic weather warning: Very bad road conditions are expected at first because of snowstorm.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-11</guid>
+    </item>
+    <item>
+      <title>Orange traffic weather warning: Locally in the southern and middle parts of the country, Sat 5.43 - Sun 12.00</title>
+      <link>https://alerts.fmi.fi/cap/2025/09-06/03-43-10Z/2.49.0.1.246.0.0.2025.xml</link>
+      <description>Traffic weather warning: Very bad road conditions are expected at first because of freezing rain, snow or sleet and snowstorm.</description>
+      <category>MET</category>
+      <pubDate>Sat, 06 Sep 2025 03:43:10 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-12</guid>
+    </item>
   </channel>
 </rss>
