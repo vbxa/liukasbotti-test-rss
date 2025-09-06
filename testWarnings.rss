@@ -7,6 +7,16 @@
     <language>en-GB</language>
     <pubDate>Fri, 06 Sep 2025 08:00:00 GMT</pubDate>
 
+    <!-- Pedestrian / slippery pavement -->
+    <item>
+      <title>Yellow pedestrian weather warning: Locally in Uusimaa, Fri 8.00 - 20.00</title>
+      <link>https://vbxa.github.io/liukasbotti-test-rss/test-warning-1.xml</link>
+      <description>Pedestrian weather warning: Very slippery pavements are expected due to early autumn frost and dew.</description>
+      <category>MET</category>
+      <pubDate>Fri, 06 Sep 2025 08:00:00 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:test-warning-1-2025-09-06</guid>
+    </item>
 
 
   </channel>
