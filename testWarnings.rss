@@ -114,5 +114,14 @@
       <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
       <guid isPermaLink="false">urn:oid:2025-12</guid>
     </item>
+    <item>
+      <title>Yellow pedestrian weather warning: The whole country, Wed 11.00 - Thu 0.00</title>
+      <link>https://vbxa.github.io/liukasbotti-test-rss/test-warning-2.xml</link>
+      <description>Pedestrian weather warning: Very slippery pavements are expected starting before noon because of water on top of icy pavement surfaces.</description>
+      <category>MET</category>
+      <pubDate>Wed, 24 Sep 2025 10:25:47 GMT</pubDate>
+      <author>cap@fmi.fi (Finnish Meteorological Institute)</author>
+      <guid isPermaLink="false">urn:oid:2025-13</guid>
+    </item>
   </channel>
 </rss>
